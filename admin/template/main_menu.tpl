@@ -1,0 +1,1 @@
+<td><a href="{URL}"><img src="{IMG_SRC}" style="vertical-align: middle; margin-right: 11px; margin-left: 11px; cursor: pointer"></a></td> 

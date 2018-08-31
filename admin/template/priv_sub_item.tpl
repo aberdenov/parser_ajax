@@ -1,0 +1,1 @@
+<div style="margin-left: 20px"><input type="checkbox" name="pages[]" value="{SUB_ID}" {SUB_SEL}>{SUB_TITLE}</div>

@@ -1,0 +1,2 @@
+<div style="margin: 10px auto 10px auto"><a href="http://parser.trainspotting.kz/file.xlsx" class="ln1">Скачать файл отчета</a></div>
+<div style="margin: 10px auto 10px auto"><a href="http://parser.trainspotting.kz/archive.zip" class="ln1">Скачать архив скриншотов</a></div>
